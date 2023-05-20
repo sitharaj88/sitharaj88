@@ -22,4 +22,4 @@ I'm passionate about exploring new technologies, solving challenging problems, a
 
 ## 🌱 Let's Connect
 
-If you're interested in working together or want to discuss exciting projects, feel free to reach out to me via email at sitharaj.info@gmail.com(mailto:sitharaj.info@gmail.com) or connect with me on https://www.linkedin.com/in/sitharaj08/(LinkedIn Profile Link). Let's create something remarkable together! 🤝
+If you're interested in working together or want to discuss exciting projects, feel free to reach out to me via email at sitharaj.info@gmail.com or connect with me on https://www.linkedin.com/in/sitharaj08/. Let's create something remarkable together! 🤝
