@@ -88,7 +88,7 @@ Below is my full technology ecosystem, organized into clean categories with icon
 
 ## 📊 Languages I Use (Chart)
 
-![Top Langs](![Metrics](https://metrics.lecoq.io/sitharaj88?template=classic&languages=1&languages.limit=8&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/sitharaj88?template=classic&languages=1&languages.limit=8&config.timezone=Asia%2FCalcutta)
 
 ---
 
