@@ -105,7 +105,7 @@ A modern UI toolkit for React built with clean architecture and design tokens.
 ### 🔷 DevTools – Multi-Purpose Developer Utilities
 Reusable utilities, code helpers, and modules.  
 📌 Tech: JS/TS, Node.js, React Native  
-🔗 https://github.com/sitharaj88/devtools
+🔗 https://www.sitharaj.in/dev-tools
 
 ---
 
