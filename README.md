@@ -36,7 +36,8 @@ Below is my full technology ecosystem, organized into clean categories with icon
 ## 🎨 Frontend
 
 <img src="https://img.icons8.com/color/48/react-native.png" width="28"/> ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-<img src="https://img.icons8.com/office/40/nextjs.png" width="28"/> ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="28" height="28"/>
+ ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 <img src="https://img.icons8.com/color/48/tailwindcss.png" width="28"/> ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 <img src="https://img.icons8.com/color/48/html-5.png" width="28"/> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 <img src="https://img.icons8.com/color/48/css3.png" width="28"/> ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -87,7 +88,7 @@ Below is my full technology ecosystem, organized into clean categories with icon
 
 ## 📊 Languages I Use (Chart)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitharaj88&layout=compact&theme=tokyonight)
+![Top Langs](![Metrics](https://metrics.lecoq.io/sitharaj88?template=classic&languages=1&languages.limit=8&config.timezone=Asia%2FCalcutta)
 
 ---
 
@@ -159,7 +160,8 @@ JSON tools, schemas, API testing, color tools, log formatters, and more
 
 ## 🔥 GitHub Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sitharaj88&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sitharaj88&theme=tokyonight&hide_border=false)
+
 
 ---
 
@@ -196,5 +198,6 @@ JSON tools, schemas, API testing, color tools, log formatters, and more
 
 📧 **Email:** sitharaj.info@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/sitharaj08/
+💼 **Website:** https://sitharaj.in
 
 Let’s build something remarkable together! 🚀🤝
