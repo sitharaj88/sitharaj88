@@ -76,30 +76,31 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" /> About Me
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
+</p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25" /> Hey there! I'm Sitharaj
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Sitharaj+%F0%9F%91%8B" alt="Greeting"/>
+</p>
 
-I'm a **Senior Mobile & Web Developer** with **13+ years** of experience building world-class digital products. I specialize in crafting **fast, beautiful, and scalable applications** across multiple platforms.
+<p align="center">
+I'm a <b>Senior Mobile & Web Developer</b> with <b>13+ years</b> of experience building world-class digital products.<br/>
+I specialize in crafting <b>fast, beautiful, and scalable applications</b> across multiple platforms.
+</p>
 
-**🎯 What defines me:**
-- 🚀 **Speed** — Ship production apps at lightning speed
-- 🎨 **Quality** — Clean architecture & beautiful UIs
-- 🤖 **AI-First** — Leverage AI tools for 10x productivity
-- 🌟 **Open Source** — Active maintainer & contributor
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Speed-Ship_at_Lightning_Speed-667eea?style=flat-square" alt="Speed"/>
+  <img src="https://img.shields.io/badge/🎨_Quality-Clean_Architecture_&_Beautiful_UIs-f093fb?style=flat-square" alt="Quality"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_AI--First-10x_Productivity_with_AI_Tools-4facfe?style=flat-square" alt="AI-First"/>
+  <img src="https://img.shields.io/badge/🌟_Open_Source-Active_Maintainer_&_Contributor-10B981?style=flat-square" alt="Open Source"/>
+</p>
 
-> *"Build fast. Ship faster. Iterate always."* ⚡
-
-</td>
-<td width="50%">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <i>"Build fast. Ship faster. Iterate always."</i> ⚡
+</p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="25" /> Quick Overview
 
@@ -149,30 +150,29 @@ I'm a **Senior Mobile & Web Developer** with **13+ years** of experience buildin
 
 ### 🧠 Large Language Models (LLMs)
 
-<table>
-<tr>
-<td width="50%">
+<details>
+<summary>🔬 <b>Model Architectures & Fine-tuning</b></summary>
+<br>
 
-**🔬 Model Architectures & Fine-tuning**
 - Transformer architecture deep dive
 - LoRA & QLoRA fine-tuning techniques
 - Prompt engineering & optimization
 - Model quantization (GGUF, GPTQ, AWQ)
 - Local LLM deployment (Ollama, LM Studio)
 
-</td>
-<td width="50%">
+</details>
 
-**🏗️ RAG & Vector Databases**
+<details>
+<summary>🏗️ <b>RAG & Vector Databases</b></summary>
+<br>
+
 - Retrieval-Augmented Generation (RAG)
 - Vector embeddings & similarity search
 - ChromaDB, Pinecone, Weaviate
 - Document chunking strategies
 - Hybrid search techniques
 
-</td>
-</tr>
-</table>
+</details>
 
 ### ⚡ AI Development Frameworks & Tools
 
@@ -191,52 +191,30 @@ I'm a **Senior Mobile & Web Developer** with **13+ years** of experience buildin
 
 ### 🔥 Current Gen AI Trends I'm Exploring
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/bot.png" width="40"/>
-<br><b>AI Agents</b>
-<br><sub>Autonomous agents, tool use, ReAct pattern, AutoGPT-style workflows</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/code.png" width="40"/>
-<br><b>Agentic Coding</b>
-<br><sub>Claude Code, Cursor, Windsurf, AI pair programming</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/image.png" width="40"/>
-<br><b>Multi-Modal AI</b>
-<br><sub>Vision models, image generation, video understanding</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/voice-recognition-scan.png" width="40"/>
-<br><b>Voice & Speech</b>
-<br><sub>Text-to-speech, speech recognition, voice cloning</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/workflow.png" width="40"/>
-<br><b>AI Orchestration</b>
-<br><sub>LangGraph, CrewAI, multi-agent systems</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/database.png" width="40"/>
-<br><b>Knowledge Graphs</b>
-<br><sub>GraphRAG, Neo4j, entity extraction</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40"/>
-<br><b>On-Device AI</b>
-<br><sub>Mobile ML, Edge AI, MLKit, CoreML</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/security-checked.png" width="40"/>
-<br><b>AI Safety</b>
-<br><sub>Guardrails, prompt injection prevention, responsible AI</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_AI_Agents-Autonomous_agents,_ReAct,_AutoGPT-667eea?style=for-the-badge" alt="AI Agents"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Agentic_Coding-Claude_Code,_Cursor,_Windsurf-f093fb?style=for-the-badge" alt="Agentic Coding"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🖼️_Multi--Modal_AI-Vision,_Image_Gen,_Video-4facfe?style=for-the-badge" alt="Multi-Modal"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎙️_Voice_&_Speech-TTS,_STT,_Voice_Cloning-10B981?style=for-the-badge" alt="Voice"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔄_AI_Orchestration-LangGraph,_CrewAI,_Multi--Agent-FF6B6B?style=for-the-badge" alt="Orchestration"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/📊_Knowledge_Graphs-GraphRAG,_Neo4j,_Entity_Extraction-F59E0B?style=for-the-badge" alt="Knowledge Graphs"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/📱_On--Device_AI-MLKit,_CoreML,_Edge_AI-764ba2?style=for-the-badge" alt="On-Device AI"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔒_AI_Safety-Guardrails,_Prompt_Injection,_Responsible_AI-EC4899?style=for-the-badge" alt="AI Safety"/>
+</p>
 
 ### 📚 Learning Resources I'm Using
 
@@ -625,11 +603,6 @@ I'm a **Senior Mobile & Web Developer** with **13+ years** of experience buildin
       <b>🛡️ Sentinel</b>
       <br>
       <sub>Enterprise-grade KMP Permissions Library</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-      <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
-      <img src="https://img.shields.io/badge/Desktop-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Desktop"/>
-      <img src="https://img.shields.io/badge/Web-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Web"/>
     </td>
     <td align="center" width="33%">
       <a href="https://central.sonatype.com/search?q=in.sitharaj.reduxkmp">
@@ -639,11 +612,6 @@ I'm a **Senior Mobile & Web Developer** with **13+ years** of experience buildin
       <b>🔄 Redux KMP</b>
       <br>
       <sub>Predictable State Container for KMP</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-      <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
-      <img src="https://img.shields.io/badge/Desktop-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Desktop"/>
-      <img src="https://img.shields.io/badge/Web-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Web"/>
     </td>
     <td align="center" width="33%">
       <a href="https://central.sonatype.com/search?q=in.sitharaj.parcel">
@@ -653,11 +621,6 @@ I'm a **Senior Mobile & Web Developer** with **13+ years** of experience buildin
       <b>📁 Parcel</b>
       <br>
       <sub>KMP File Picker & Share Library</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-      <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
-      <img src="https://img.shields.io/badge/Desktop-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Desktop"/>
-      <img src="https://img.shields.io/badge/Web-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Web"/>
     </td>
   </tr>
   <tr>
@@ -669,11 +632,6 @@ I'm a **Senior Mobile & Web Developer** with **13+ years** of experience buildin
       <b>📦 Krate</b>
       <br>
       <sub>Enterprise-grade KMP File System Library</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-      <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
-      <img src="https://img.shields.io/badge/Desktop-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Desktop"/>
-      <img src="https://img.shields.io/badge/Web-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Web"/>
     </td>
     <td align="center" width="33%">
       <a href="https://central.sonatype.com/search?q=in.sitharaj+vaultkmp">
@@ -683,10 +641,6 @@ I'm a **Senior Mobile & Web Developer** with **13+ years** of experience buildin
       <b>🔐 VaultKMP</b>
       <br>
       <sub>Secure Encrypted Key-Value Storage</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-      <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
-      <img src="https://img.shields.io/badge/Desktop-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Desktop"/>
     </td>
     <td align="center" width="33%">
       <a href="https://central.sonatype.com/search?q=in.sitharaj+kronosync">
@@ -696,11 +650,6 @@ I'm a **Senior Mobile & Web Developer** with **13+ years** of experience buildin
       <b>⏱️ Kronosync</b>
       <br>
       <sub>KMP SNTP Client for Time Sync</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-      <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
-      <img src="https://img.shields.io/badge/Desktop-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Desktop"/>
-      <img src="https://img.shields.io/badge/Web-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Web"/>
     </td>
   </tr>
 </table>
@@ -782,30 +731,26 @@ timeline
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="30" /> My Digital Home — [sitharaj.in](https://sitharaj.in)
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/book.png" width="60"/><br>
-      <b>📚 Tutorials</b><br>
-      <sub>In-depth guides on<br>Kotlin, Android, React Native,<br>Flutter, TypeScript, AI/ML</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/blog.png" width="60"/><br>
-      <b>📝 Technical Blog</b><br>
-      <sub>Articles on architecture,<br>productivity, dev tools,<br>open source insights</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60"/><br>
-      <b>🤖 AI/ML Hub</b><br>
-      <sub>LLM guides, AI tool demos,<br>local model setups,<br>vibe coding tutorials</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/toolbox.png" width="60"/><br>
-      <b>🛠 Dev Tools</b><br>
-      <sub>JSON tools, API testing,<br>color utilities, formatters,<br>code helpers</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://sitharaj.in">
+    <img src="https://img.shields.io/badge/📚_Tutorials-Kotlin,_Android,_React_Native,_Flutter-667eea?style=for-the-badge" alt="Tutorials"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://sitharaj.in">
+    <img src="https://img.shields.io/badge/📝_Technical_Blog-Architecture,_Productivity,_Dev_Tools-f093fb?style=for-the-badge" alt="Blog"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://sitharaj.in">
+    <img src="https://img.shields.io/badge/🤖_AI/ML_Hub-LLM_Guides,_Vibe_Coding,_Local_Models-4facfe?style=for-the-badge" alt="AI Hub"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://sitharaj.in">
+    <img src="https://img.shields.io/badge/🛠_Dev_Tools-JSON_Tools,_API_Testing,_Formatters-10B981?style=for-the-badge" alt="Dev Tools"/>
+  </a>
+</p>
 
 ---
 
