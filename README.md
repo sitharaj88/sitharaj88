@@ -23,7 +23,7 @@
 
 <!-- Animated Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=F093FB&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=45&lines=⚡+Senior+Mobile+%26+Web+Developer+with+13%2B+Years+Experience;🤖+AI+Pioneer+%7C+Vibe+Coding+Expert+%7C+Open+Source+Creator;🚀+Building+the+Future+One+Line+of+Code+at+a+Time;�+Turning+Ideas+into+Production-Ready+Apps+at+Lightning+Speed;🔥+Mastering+AI-Powered+Development+%26+Automation" alt="Subtitle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=F093FB&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=45&lines=%E2%9A%A1+Senior+Mobile+%26+Web+Developer+with+13%2B+Years+Experience;%F0%9F%A4%96+AI+Pioneer+%7C+Vibe+Coding+Expert+%7C+Open+Source+Creator;%F0%9F%9A%80+Building+the+Future+One+Line+of+Code+at+a+Time;%F0%9F%92%8E+Turning+Ideas+into+Production-Ready+Apps;%F0%9F%94%A5+Mastering+AI-Powered+Development+%26+Automation" alt="Subtitle"/>
 </p>
 
 <!-- Animated Line Divider -->
