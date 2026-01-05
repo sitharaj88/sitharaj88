@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://www.npmjs.com/~sitharaj88">
+  <a href="https://www.npmjs.com/~sitharaj08">
     <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
   </a>
   &nbsp;
