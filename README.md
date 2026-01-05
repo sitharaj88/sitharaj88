@@ -840,12 +840,9 @@ timeline
 <!-- SECTION: CONNECT                                                                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Let's Connect & Collaborate
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Let's Connect
 
 <p align="center">
-  <a href="mailto:sitharaj.info@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://linkedin.com/in/sitharaj08">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -855,21 +852,28 @@ timeline
   <a href="https://github.com/sitharaj88">
     <img src="https://img.shields.io/badge/👨‍💻_GitHub-181717?style=for-the-badge&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="mailto:sitharaj.info@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <p align="center">
-  <b>💬 Open for:</b> Consulting • Collaboration • Open Source • Mentoring • Tech Talks
+  <img src="https://img.shields.io/badge/💖_Passionate_about-Open_Source_&_Building_Tools_for_Developers-FF6B6B?style=flat-square" alt="Passion"/>
+</p>
+
+<p align="center">
+  <b>🌟 Love connecting with fellow developers, tech enthusiasts, and open source contributors!</b>
 </p>
 
 ---
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,25:A855F7,50:06B6D4,75:14B8A6,100:10B981&height=150&section=footer&text=Let's%20Build%20the%20Future%20Together!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:f5576c,100:4facfe&height=150&section=footer&text=Building%20Open%20Source%20to%20Make%20the%20World%20Better!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Alan%20Kay" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Alan%20Kay" alt="Quote"/>
 </p>
 
 <p align="center">
