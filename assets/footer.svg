@@ -1,0 +1,21 @@
+<svg width="100%" viewBox="0 0 1200 110" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#818cf8">
+        <animate attributeName="stop-color" values="#818cf8;#c084fc;#22d3ee;#818cf8" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#c084fc">
+        <animate attributeName="stop-color" values="#c084fc;#22d3ee;#818cf8;#c084fc" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#818cf8;#c084fc;#22d3ee" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <style>
+      .sans { font-family: 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+  <rect x="0" y="4" width="1200" height="4" rx="2" fill="url(#line)"/>
+  <text x="600" y="58" class="sans" font-size="18" font-weight="600" text-anchor="middle" fill="#8a93a6">Building AI-native products &amp; open source for everyone</text>
+  <text x="600" y="90" class="sans" font-size="14" text-anchor="middle" fill="#54627e">&#11088; star a repo if it helps you &#8212; made with &#10084;&#65039; and &#9749; by Sitharaj</text>
+</svg>

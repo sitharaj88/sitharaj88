@@ -1,0 +1,71 @@
+<svg width="100%" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="What I build: LLM applications, agentic systems, RAG and retrieval, cross-platform apps">
+  <defs>
+    <linearGradient id="icoA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="icoB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <linearGradient id="icoC" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06b6d4"/><stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="icoD" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10b981"/><stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+      .title { font-size: 21px; font-weight: 700; fill: #e2e8f0; }
+      .desc { font-size: 14px; fill: #8a93a6; }
+      .tag { font-size: 12px; fill: #67e8f9; }
+    </style>
+  </defs>
+
+  <!-- Card 1: LLM Applications -->
+  <g>
+    <rect x="1" y="1" width="590" height="150" rx="16" fill="#0b0f19" stroke="#232b40" stroke-width="2"/>
+    <rect x="1" y="1" width="4" height="150" rx="2" fill="url(#icoA)"/>
+    <circle cx="52" cy="76" r="26" fill="url(#icoA)" opacity="0.18"/>
+    <text x="52" y="85" font-size="26" text-anchor="middle">&#129504;</text>
+    <text x="96" y="62" class="sans title">LLM Applications</text>
+    <text x="96" y="90" class="sans desc">Claude &#183; GPT &#183; Gemini in production &#8212; structured outputs,</text>
+    <text x="96" y="110" class="sans desc">tool use, streaming UX, evals &amp; cost optimization</text>
+    <text x="96" y="134" class="mono tag">claude-api &#183; openai &#183; vercel-ai-sdk</text>
+  </g>
+
+  <!-- Card 2: Agentic Systems -->
+  <g>
+    <rect x="609" y="1" width="590" height="150" rx="16" fill="#0b0f19" stroke="#232b40" stroke-width="2"/>
+    <rect x="609" y="1" width="4" height="150" rx="2" fill="url(#icoB)"/>
+    <circle cx="660" cy="76" r="26" fill="url(#icoB)" opacity="0.18"/>
+    <text x="660" y="85" font-size="26" text-anchor="middle">&#129302;</text>
+    <text x="704" y="62" class="sans title">Agentic Systems</text>
+    <text x="704" y="90" class="sans desc">Multi-agent orchestration &#8212; planning, tool use, MCP</text>
+    <text x="704" y="110" class="sans desc">servers, and agentic coding workflows</text>
+    <text x="704" y="134" class="mono tag">langgraph &#183; mcp &#183; claude-code</text>
+  </g>
+
+  <!-- Card 3: RAG & Retrieval -->
+  <g>
+    <rect x="1" y="179" width="590" height="150" rx="16" fill="#0b0f19" stroke="#232b40" stroke-width="2"/>
+    <rect x="1" y="179" width="4" height="150" rx="2" fill="url(#icoC)"/>
+    <circle cx="52" cy="254" r="26" fill="url(#icoC)" opacity="0.18"/>
+    <text x="52" y="263" font-size="26" text-anchor="middle">&#128218;</text>
+    <text x="96" y="240" class="sans title">RAG &amp; Retrieval</text>
+    <text x="96" y="268" class="sans desc">Grounded answers with citations &#8212; hybrid search,</text>
+    <text x="96" y="288" class="sans desc">GraphRAG, smart chunking &amp; embeddings</text>
+    <text x="96" y="312" class="mono tag">pgvector &#183; chroma &#183; pinecone &#183; neo4j</text>
+  </g>
+
+  <!-- Card 4: Cross-Platform Apps -->
+  <g>
+    <rect x="609" y="179" width="590" height="150" rx="16" fill="#0b0f19" stroke="#232b40" stroke-width="2"/>
+    <rect x="609" y="179" width="4" height="150" rx="2" fill="url(#icoD)"/>
+    <circle cx="660" cy="254" r="26" fill="url(#icoD)" opacity="0.18"/>
+    <text x="660" y="263" font-size="26" text-anchor="middle">&#128241;</text>
+    <text x="704" y="240" class="sans title">Cross-Platform Apps</text>
+    <text x="704" y="268" class="sans desc">Kotlin Multiplatform &#183; Compose &#183; SwiftUI &#8212; with AI</text>
+    <text x="704" y="288" class="sans desc">running on-device via Ollama, MLKit &amp; CoreML</text>
+    <text x="704" y="312" class="mono tag">kmp &#183; compose &#183; swiftui &#183; react-native</text>
+  </g>
+</svg>
