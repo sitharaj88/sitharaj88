@@ -42,26 +42,26 @@ Kotlin Multiplatform, React, and TypeScript. Author of open source libraries on
 
 <p align="center">
   <a href="https://github.com/sitharaj88/sentinel-kmp">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sitharaj88&repo=sentinel-kmp&bg_color=00000000&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=8a93a6" alt="sentinel-kmp"/>
+    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=sitharaj88&repo=sentinel-kmp&bg_color=00000000&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=8a93a6" alt="sentinel-kmp"/>
   </a>
   <a href="https://github.com/sitharaj88/redux-kmp">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sitharaj88&repo=redux-kmp&bg_color=00000000&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=8a93a6" alt="redux-kmp"/>
+    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=sitharaj88&repo=redux-kmp&bg_color=00000000&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=8a93a6" alt="redux-kmp"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/sitharaj88/vaultkmp">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sitharaj88&repo=vaultkmp&bg_color=00000000&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=8a93a6" alt="vaultkmp"/>
+    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=sitharaj88&repo=vaultkmp&bg_color=00000000&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=8a93a6" alt="vaultkmp"/>
   </a>
   <a href="https://github.com/sitharaj88/sqlens">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sitharaj88&repo=sqlens&bg_color=00000000&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=8a93a6" alt="sqlens"/>
+    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=sitharaj88&repo=sqlens&bg_color=00000000&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=8a93a6" alt="sqlens"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/sitharaj88/react-unified-storage">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sitharaj88&repo=react-unified-storage&bg_color=00000000&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=8a93a6" alt="react-unified-storage"/>
+    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=sitharaj88&repo=react-unified-storage&bg_color=00000000&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=8a93a6" alt="react-unified-storage"/>
   </a>
   <a href="https://github.com/sitharaj88/foundry-orm">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sitharaj88&repo=foundry-orm&bg_color=00000000&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=8a93a6" alt="foundry-orm"/>
+    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=sitharaj88&repo=foundry-orm&bg_color=00000000&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=8a93a6" alt="foundry-orm"/>
   </a>
 </p>
 
@@ -94,8 +94,8 @@ Kotlin Multiplatform, React, and TypeScript. Author of open source libraries on
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sitharaj88&show_icons=true&bg_color=00000000&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=8a93a6&count_private=true&include_all_commits=true" alt="GitHub stats" height="175"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sitharaj88&layout=compact&bg_color=00000000&hide_border=true&title_color=8b5cf6&text_color=8a93a6&langs_count=8" alt="Top languages" height="175"/>
+  <img src="https://github-readme-stats.zohan.tech/api?username=sitharaj88&show_icons=true&bg_color=00000000&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=8a93a6&count_private=true&include_all_commits=true" alt="GitHub stats" height="175"/>
+  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=sitharaj88&layout=compact&bg_color=00000000&hide_border=true&title_color=8b5cf6&text_color=8a93a6&langs_count=8" alt="Top languages" height="175"/>
 </p>
 
 <!-- Custom animated footer (assets/footer.svg) -->
